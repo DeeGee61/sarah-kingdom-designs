@@ -46,18 +46,18 @@ export default function Footer() {
             <p className="caption mb-4">Get in Touch</p>
             <div className="flex flex-col gap-3 text-gray-400 text-sm">
               <a
-                href="mailto:hello@sarahkingdom.design"
+                href="mailto:sarah@sarahkingdomdesigns.com"
                 className="flex items-center gap-2 hover:text-white transition-colors"
               >
                 <Mail size={14} />
-                hello@sarahkingdom.design
+                sarah@sarahkingdomdesigns.com
               </a>
               <a
-                href="tel:+13035551234"
+                href="tel:+13038174984"
                 className="flex items-center gap-2 hover:text-white transition-colors"
               >
                 <Phone size={14} />
-                (303) 555-1234
+                (303) 817-4984
               </a>
               <a
                 href="https://instagram.com/sarahkingdomdesigns"

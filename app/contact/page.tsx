@@ -129,18 +129,18 @@ export default function ContactPage() {
                 <p className="caption mb-3">Call or Email</p>
                 <div className="space-y-3">
                   <a
-                    href="tel:+13035551234"
+                    href="tel:+13038174984"
                     className="flex items-center gap-3 text-sm hover:text-gray-800 transition-colors"
                   >
                     <Phone size={16} className="text-gray-400" />
-                    (303) 555-1234
+                    (303) 817-4984
                   </a>
                   <a
-                    href="mailto:hello@sarahkingdom.design"
+                    href="mailto:sarah@sarahkingdomdesigns.com"
                     className="flex items-center gap-3 text-sm hover:text-gray-800 transition-colors"
                   >
                     <Mail size={16} className="text-gray-400" />
-                    hello@sarahkingdom.design
+                    sarah@sarahkingdomdesigns.com
                   </a>
                 </div>
               </div>
