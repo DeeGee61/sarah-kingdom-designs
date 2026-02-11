@@ -136,11 +136,11 @@ export default function ContactPage() {
                     (303) 817-4984
                   </a>
                   <a
-                    href="mailto:sarah@sarahkingdomdesigns.com"
+                    href="mailto:sarah@sarahkingdomdesigns.net"
                     className="flex items-center gap-3 text-sm hover:text-gray-800 transition-colors"
                   >
                     <Mail size={16} className="text-gray-400" />
-                    sarah@sarahkingdomdesigns.com
+                    sarah@sarahkingdomdesigns.net
                   </a>
                 </div>
               </div>
